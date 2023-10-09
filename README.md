@@ -48,11 +48,12 @@ Install all the following:
   [goland](https://www.jetbrains.com/go/download/)
 
 ### Running on the cluster
-0. Getting image from [hub.docker.com]()
+0. Getting image from [hub.docker.com](https://hub.docker.com/r/savelievant/dummy-operator)
 - ```sh
 docker pull savelievant/dummy-operator
 ``` 
-or dowload sources from current repo [git]()
+
+or dowload sources from current repo [github.com](https://github.com/antonmisa/dummy-operator)
 - ```sh
 git clone https://github.com/antonmisa/dummy-operator
 ```
