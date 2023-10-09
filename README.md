@@ -49,12 +49,12 @@ Install all the following:
 
 ### Running on the cluster
 0. Getting image from [hub.docker.com](https://hub.docker.com/r/savelievant/dummy-operator)
-- ```sh
+```sh
 docker pull savelievant/dummy-operator
 ``` 
 
 or dowload sources from current repo [github.com](https://github.com/antonmisa/dummy-operator)
-- ```sh
+```sh
 git clone https://github.com/antonmisa/dummy-operator
 ```
 
