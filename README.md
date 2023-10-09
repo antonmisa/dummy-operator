@@ -48,6 +48,15 @@ Install all the following:
   [goland](https://www.jetbrains.com/go/download/)
 
 ### Running on the cluster
+0. Getting image from [hub.docker.com]()
+- ```sh
+docker pull savelievant/dummy-operator
+``` 
+or dowload sources from current repo [git]()
+- ```sh
+git clone https://github.com/antonmisa/dummy-operator
+```
+
 1. To start a minikube cluster on your local machine, run the following command, setting as an arbitrarily name for your cluster (this name will be used for kubectl context):
 ```sh
 minikube start
